@@ -27,9 +27,9 @@
 
 | 🔗 Projeto | 📝 Descrição | 🚀 Tecnologias |
 |------------|--------------|----------------|
-| [Link para o Projeto] | Dashboard de vendas com Power BI | Power BI, Excel |
-| [Link para o Projeto] | Análise exploratória de dados públicos | Python, Pandas, Matplotlib |
-| [Link para o Projeto] | Banco de dados relacional para controle de estoque | SQL, PostgreSQL |
+| [Em breve] | Em breve | Em breve |
+| [Em breve] | Em breve | Em breve |
+| [Em breve] | Em breve | Em breve |
 
 ---
 
