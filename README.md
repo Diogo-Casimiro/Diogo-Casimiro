@@ -37,7 +37,7 @@
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/diogoalvescasimiro/)
 - ✉️ Email: 
-- 🌐 Portfólio (Em breve): [Link para seu portfólio se tiver]
+- 🌐 Portfólio (Em breve):
 
 ---
 
