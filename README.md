@@ -36,7 +36,7 @@
 ## 📫 Contato
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/diogoalvescasimiro/)
-- ✉️ Email: diogoalvescasimiro@gmail.com
+- ✉️ Email: 
 - 🌐 Portfólio (Em breve): [Link para seu portfólio se tiver]
 
 ---
