@@ -17,7 +17,7 @@
 
 - 📊 **Análise de Dados:** Excel, Power BI, Tableu
 - 💻 **Linguagens:** SQL, R, Python (Pandas, NumPy, Matplotlib, Seaborn)
-- 🗄️ **Banco de Dados:** MySQL, PostgreSQL, SQL Server
+- 🗄️ **Banco de Dados:** MySQL, PostgreSQL, Big Query
 - 🔄 **Automatização:** Power Query, VBA
 - 📂 **Versionamento:** Git e GitHub
 
